@@ -1,0 +1,12 @@
+{
+    "name": "automation",
+    "description": "pruebas de automatizacion",
+    "version": "0.0.1",
+    "dependencies": {},
+    "node-red": {
+        "settings": {
+            "flowFile": "automation.json",
+            "credentialsFile": "automation_cred.json"
+        }
+    }
+}
