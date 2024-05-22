@@ -33,5 +33,23 @@
         "wires": [
             []
         ]
+    },
+    {
+        "id": "09e226cd8d27f68e",
+        "type": "function",
+        "z": "eeb05d2bab118489",
+        "name": "function 1",
+        "func": "\nreturn msg;",
+        "outputs": 1,
+        "timeout": 0,
+        "noerr": 0,
+        "initialize": "",
+        "finalize": "",
+        "libs": [],
+        "x": 420,
+        "y": 220,
+        "wires": [
+            []
+        ]
     }
 ]
